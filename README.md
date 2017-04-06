@@ -4,7 +4,7 @@
     + [How it works](https://www.wuv.de/digital/wie_funktioniert_programmatic_advertising), an W&V article about the prgrammatic advertising structure.
     
 + SSP
-    + [Bento](http://www.bentobox.io): a collection of guides for web development.
+    
     
 + DSP
     + [AppNexus](https://www.appnexus.com/en): , a cloud-based software platform for programmatic online advertising, offers online auction infrastructure and technology for data management, optimization, financial clearing and support for directly negotiated advertising campaigns.
