@@ -1,7 +1,7 @@
 # programmatic-advertising-bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - Programmatic Advertising
-    + [W&V](https://www.wuv.de/digital/wie_funktioniert_programmatic_advertising) an article about the prgrammatic advertising structure.
+    + [How it works](https://www.wuv.de/digital/wie_funktioniert_programmatic_advertising) an W&V article about the prgrammatic advertising structure.
     
 + SSP
     + [Bento](http://www.bentobox.io): a collection of guides for web development.
